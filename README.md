@@ -13,7 +13,7 @@ pour l'installer, du gâteau, "choose file" dans l'admin de la langue côté cor
 
 ![choosefile_image](https://www.waitandcie.com/down/choose_file_new.png)
 
-ou si vous utilisz la version tradi du thème
+ou si vous utilisez la version tradi du thème
 
 ![choosefile_image](https://www.waitandcie.com/down/chose_file_to_translate.png)
 
